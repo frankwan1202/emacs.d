@@ -30,3 +30,4 @@ custom.el
 init-personal.el
 request/
 edts/
+.cache/
