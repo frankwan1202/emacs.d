@@ -18,6 +18,7 @@
 			    js2-mode
 			    nodejs-repl
 			    popwin
+			    omnisharp
 			    ) "Default packages")
 (setq package-selected-packages frankwan/packages)
 

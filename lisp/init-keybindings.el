@@ -16,7 +16,7 @@
 (global-set-key (kbd "C-h v") 'counsel-describe-variable)
 
 ;; binding key 'C-c TAB' to toggle company mode
-(global-set-key (kbd "C-c TAB") 'company-mode)
+(global-set-key (kbd "C-c TAB") 'global-company-mode)
 
 (global-set-key (kbd "C-c p f") 'counsel-git)
 
